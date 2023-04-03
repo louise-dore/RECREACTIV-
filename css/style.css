@@ -1,0 +1,20 @@
+@import url("components/container.css");
+@import url("components/tutoring.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background: linear-gradient(#B2B2B2, #F6F1F1, lightgrey);
+	color: #686D76;
+	font-family: Gabriola;
+	font-size: 27px;
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	color:#146C94;
+}
